@@ -26,5 +26,9 @@
     "edunpm": {
         "home": "http://www.enpmjs.org",
         "registry": "http://registry.enpmjs.org/"
+    },
+    "mnpm": {
+        "home": "https://mnpm.stage.yunshanmeicai.com/",
+	"registry": "https://registrymnpm.stage.yunshanmeicai.com"
     }
 }
